@@ -1,0 +1,16 @@
+Junior AI Engineer - Paid Internship
+Take a central role at the junction of generative AI & classic ML. Help us harness LLMs, Data engineering, and ML models to revolutionize the HR world.
+
+You will:
+Use prompt engineering to automate previously manual tasks.
+Investigate, visualize, and recommend business decisions based on data analysis work (EDA, Graphs, Precision, Recall, Accuracy metrics)
+Assemble data pipelines, test and improve them.
+Train ML models on tabular data to achieve accurate predictions that will drive our company forward!
+Benchmark and test your models, and deploy them for use by the app team!
+
+You need:
+Background in data analysis
+Background in data science (pandas, numpy, pyTorch/tensorFlow, theoretical understanding of ML concepts & models).
+Strong startup mentality! 
+Background in building software - advantage.
+Self-managed, independent, "gets the job done" attitude.

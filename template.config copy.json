@@ -1,0 +1,8 @@
+    {
+    "openai": {
+        "api_key": "---"
+    },
+    "pdf_path": [
+        "Avraham Asaraf CV.pdf"
+    ]
+}
